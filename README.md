@@ -11,7 +11,7 @@
 
 In this project we'll implement a full authentication workflow (register/login/logout/restrict endpoint) using `Node.js`, `Express`, `SQLite` and `JSON Web Tokens` on the server.
 
-### Download Project Files
+### Download Project Filesff
 
 - **Fork** and **Clone** this repository.
 - **CD into the folder** where you cloned the repository.
